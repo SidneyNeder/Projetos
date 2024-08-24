@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">My name is Sidney Gomes Pereira. I am a Junior Data Analyst, currently learning  more on SQL. Studying to take Microsoft certification exams.</h2>
+<h2 align="left">Sidney Gomes Pereira, Analista de Dados Junior, foco SQL, aprendendo Java, estudando para prova certificação Microsoft. Português Nativo e Francês e Inglês B1</h2>
 
 ###
 
